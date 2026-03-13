@@ -127,9 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="asciichartoint.cpp" />
     <ClCompile Include="decimal.cpp" />
+    <ClCompile Include="largest.cpp" />
+    <ClCompile Include="name.cpp" />
+    <ClCompile Include="sizeof.cpp" />
     <ClCompile Include="helloword3times.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="swap.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />

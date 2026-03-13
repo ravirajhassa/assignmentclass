@@ -2,7 +2,12 @@
 int main()
 {
 	//hello();
-	decimal();
+	//decimal();
+	//size();
+	//ascii();
+	//name();
+	//swap();
+	largest();
 
 
 
