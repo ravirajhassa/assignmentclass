@@ -10,3 +10,4 @@ int ascii();
 int name();
 int swap();
 int largest();
+int rev();
