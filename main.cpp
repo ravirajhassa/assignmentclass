@@ -8,8 +8,10 @@ int main()
 	//name();
 	//swap();
 //argest();
- rev();
- //()fdd
+ /*rev();*/
+	/*abcdloop()*//*;*/
+	//table();
+	 pattern();
 
 
 

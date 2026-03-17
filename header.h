@@ -11,3 +11,6 @@ int name();
 int swap();
 int largest();
 int rev();
+int abcdloop();
+int table();
+int pattern();

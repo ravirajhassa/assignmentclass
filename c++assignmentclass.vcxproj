@@ -130,12 +130,15 @@
     <ClCompile Include="asciichartoint.cpp" />
     <ClCompile Include="decimal.cpp" />
     <ClCompile Include="largest.cpp" />
+    <ClCompile Include="loopabcd.cpp" />
     <ClCompile Include="name.cpp" />
+    <ClCompile Include="pattern.cpp" />
     <ClCompile Include="reverse.cpp" />
     <ClCompile Include="sizeof.cpp" />
     <ClCompile Include="helloword3times.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="swap.cpp" />
+    <ClCompile Include="table.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />

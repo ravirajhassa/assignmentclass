@@ -42,6 +42,15 @@
     <ClCompile Include="reverse.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="loopabcd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="table.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
