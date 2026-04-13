@@ -14,3 +14,4 @@ int rev();
 int abcdloop();
 int table();
 int pattern();
+int swapbyfunc();

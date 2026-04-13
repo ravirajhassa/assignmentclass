@@ -16,7 +16,7 @@ int pattern()
 		{
 			cout << " ";
 		}
-		int num = i % 2;  // starting value (1 or 0)
+		int num = i % 2;  // starting value (1 or 0) 
 
 		for (int k = 1; k <= (2 * i - 1); k++)
 		{

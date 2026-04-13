@@ -11,7 +11,8 @@ int main()
  /*rev();*/
 	/*abcdloop()*//*;*/
 	//table();
-	 pattern();
+	 //pattern();
+	swapbyfunc();
 
 
 

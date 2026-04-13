@@ -51,6 +51,12 @@
     <ClCompile Include="pattern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="swap_with_two_variable_func.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="call_value_reference.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
