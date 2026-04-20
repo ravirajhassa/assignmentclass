@@ -15,3 +15,4 @@ int abcdloop();
 int table();
 int pattern();
 int swapbyfunc();
+int gar();

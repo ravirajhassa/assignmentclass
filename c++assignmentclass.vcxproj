@@ -134,6 +134,7 @@
     <ClCompile Include="loopabcd.cpp" />
     <ClCompile Include="name.cpp" />
     <ClCompile Include="pattern.cpp" />
+    <ClCompile Include="recursionfactorial.cpp" />
     <ClCompile Include="reverse.cpp" />
     <ClCompile Include="sizeof.cpp" />
     <ClCompile Include="helloword3times.cpp" />

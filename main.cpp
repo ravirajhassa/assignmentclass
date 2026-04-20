@@ -12,7 +12,8 @@ int main()
 	/*abcdloop()*//*;*/
 	//table();
 	 //pattern();
-	swapbyfunc();
+	//swapbyfunc();
+	 gar();
 
 
 
