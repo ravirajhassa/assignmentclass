@@ -17,3 +17,4 @@ int pattern();
 int swapbyfunc();
 int gar();
 int array1d();
+int arr2d();

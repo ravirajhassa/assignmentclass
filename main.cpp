@@ -14,7 +14,8 @@ int main()
 	 //pattern();
 	//swapbyfunc();
 	//gar();
-	array1d();
+	//array1d();
+	arr2d();
 
 
 	(void)_getch();
