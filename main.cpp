@@ -13,9 +13,8 @@ int main()
 	//table();
 	 //pattern();
 	//swapbyfunc();
-	 gar();
-
-
+	//gar();
+	array1d();
 
 
 	(void)_getch();

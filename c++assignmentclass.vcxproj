@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1D array.cpp" />
     <ClCompile Include="call_value_reference.cpp" />
     <ClCompile Include="asciichartoint.cpp" />
     <ClCompile Include="decimal.cpp" />

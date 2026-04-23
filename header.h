@@ -16,3 +16,4 @@ int table();
 int pattern();
 int swapbyfunc();
 int gar();
+int array1d();
